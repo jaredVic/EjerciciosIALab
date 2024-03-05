@@ -41,6 +41,9 @@ def jugar():
                 print("¡Es un empate!")
                 break
             else:
+                print("Tu movimiento:")
+                imprimir_tablero(tablero)
+                print("Turno de la máquina:")
                 # Movimiento aleatorio de la máquina
                 while True:
                     fila_maquina = random.randint(0, 2)
