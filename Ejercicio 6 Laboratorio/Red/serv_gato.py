@@ -1,3 +1,4 @@
+#Esquivel Victoriano Alvaro Jared
 import socket
 import threading
 import math
