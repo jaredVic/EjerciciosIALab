@@ -1,3 +1,4 @@
+#Esquivel Victoriano Alvaro Jared
 import math
 
 board = [' ' for _ in range(9)] # Inicializamos el tablero
